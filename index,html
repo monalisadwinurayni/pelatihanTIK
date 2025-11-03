@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Mate - SMA Negeri 1 Rengel</title>
+</head>
+<body>
+    <header>
+        <h1>Study Mate</h1>
+        <h2>SMA Negeri 1 Rengel</h2>
+    </header>
+
+    <main>
+        <!-- Bagian Jadwal Pelajaran -->
+        <section id="jadwal">
+            <h3>Jadwal Pelajaran</h3>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Jam / Hari</th>
+                        <th>Senin</th>
+                        <th>Selasa</th>
+                        <th>Rabu</th>
+                        <th>Kamis</th>
+                        <th>Jum'at</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- 13 baris untuk jam pelajaran -->
+                    <tr>
+                        <td>1</td>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                    <tr>
+                        <td>8</td>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                    <tr>
+                        <td>9</td>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                    <tr>
+                        <td>10</td>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                    <tr>
+                        <td>11</td>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                    <tr>
+                        <td>12</td>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                    <tr>
+                        <td>13</td>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <!-- Bagian Deadline Tugas -->
+        <section id="deadline">
+            <h3>Deadline Tugas</h3>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Nama Tugas</th>
+                        <th>Mata Pelajaran</th>
+                        <th>Tanggal</th>
+                        <th>Bulan</th>
+                        <th>Tahun</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Contoh data -->
+                    <tr>
+                        <td></td><td></td><td></td><td></td><td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Study Mate | SMA Negeri 1 Rengel</p>
+    </footer>
+</body>
+</html>
